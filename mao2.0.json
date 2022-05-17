@@ -516,7 +516,6 @@
 {"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
 {"key":"csp_appysv2_追剧吧","name":"追剧吧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhuiju8.vip/api.php/v1.vod"}
- ],
 {"name":"M"},
 {"api":"csp_AppYsV2","ext":"https://appys.jdodo.xyz/mogai_api.php/v1.vod","key":"csp_普通_JDODO","filterable":1,"name":"JDODO(普通)","type":3},
 {"api":"csp_AppYsV2","ext":"https://appx.uy07.com/api.php/v1.vod","key":"csp_普通_U5影视","filterable":1,"name":"U5影视(普通)","type":3},
