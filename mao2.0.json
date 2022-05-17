@@ -866,8 +866,7 @@
 {"category" : 4, "name" : "enable-accurate-seek", "value" : "0"},
 {"category" : 4, "name" : "mediacodec", "value" : "1"},
 {"category" : 4, "name" : "mediacodec-auto-rotate", "value" : "1"},
-{"category" : 4, "name" : "mediacodec-handle-resolution-change", "value" : "1"}]}], 
-
+{"category" : 4, "name" : "mediacodec-handle-resolution-change", "value" : "1"}]}
 ],
 "lives": [
     {
